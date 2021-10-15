@@ -1,0 +1,21 @@
+1) Jenkins for CI, and Sentry for Real-time Error Monitoring
+
+2) 	The benefits of using Jenkins start with the easy configuration process (very minimal).  It is also open-source, and
+   community driven so there is a lot of flexibility in the application.  Along with the ability to easily distribute work
+   across multiple machines, and having plugins for just about any need, the software is also free.
+   	The benefits of using Sentry are that the software provides stack traces, user context, and release data.  It supports a
+   wide range of languages, and platforms, and also integrates with quite a few (5) version control providers.
+
+3)  Jenkins provides good documentation to get started.  Between the two tools it looks like Sentry is easier to get started     in but Jenkins looks more robust in the complexity of what it can do. Sentry provides a "Getting started" page that
+   includes step-by-step instructions to get it integrated, and running; but because Jenkins is community run, and more          popular it has dozens of youtube tutorials, and blog posts on how to use it (all included, neatly, on the website).
+   
+   Jenkins links: https://www.jenkins.io/doc/book/getting-started/
+   				  https://www.jenkins.io/doc/pipeline/tour/getting-started/
+				  https://www.jenkins.io/doc/book/
+				  https://www.jenkins.io/doc/tutorials/
+   Sentry links:  https://docs.sentry.io/platforms/node/
+   
+4)  Jenkins has been around since 2011, so it is definitely considered reliable.  It also has over 2.4 thousand repos on         GitHub, 701 people following it, and well over 30 thousand stars.  Based on Jenkin's reports, most fortune 500 companies
+   use Jenkins.
+   	Sentry is not as popular as Jenkins overall, but in it's niche it is considered one of the best tools for the job. Their
+   GitHub shows over 300 repos, 71 people contributing, and thousands of starred repos.
